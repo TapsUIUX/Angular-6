@@ -7,7 +7,7 @@ the paths to the java script and css files must be changed to succesfuly build t
 
 
 HttpClient parses the json itself which is good but some time it throws error.
-it is safe to use HTTP and parse it useng map if situation needs it.
+it is safe to use HTTP and parse it using map if situation needs it.
 
 (Special case UNICODE fething from php services )
 
